@@ -1,2 +1,2 @@
-# DLL-Injector-C-
+# DLL-Injector-C++
 В процессе разработки
